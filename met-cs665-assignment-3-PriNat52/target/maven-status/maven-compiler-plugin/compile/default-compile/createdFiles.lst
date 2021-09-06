@@ -1,0 +1,12 @@
+edu\bu\met\cs665\emailgeneratorsystem\EmailNDecorator.class
+edu\bu\met\cs665\emailgeneratorsystem\FrequentCustomer.class
+edu\bu\met\cs665\emailgeneratorsystem\NewCustomer.class
+edu\bu\met\cs665\emailgeneratorsystem\EmailGeneratorSingleton.class
+edu\bu\met\cs665\emailgeneratorsystem\ImportantCustomer.class
+edu\bu\met\cs665\emailgeneratorsystem\EmailNCheck.class
+edu\bu\met\cs665\emailgeneratorsystem\ReturningCustomer.class
+edu\bu\met\cs665\emailgeneratorsystem\BusinessCustomer.class
+edu\bu\met\cs665\emailgeneratorsystem\EmailBDecorator.class
+edu\bu\met\cs665\emailgeneratorsystem\EmailSpellOnly.class
+edu\bu\met\cs665\emailgeneratorsystem\Email.class
+edu\bu\met\cs665\emailgeneratorsystem\EmailBCheck.class
